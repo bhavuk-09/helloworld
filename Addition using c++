@@ -6,7 +6,7 @@ void main()
 clrscr();
 int a,b,s;
 
-cout<<"Enter two numbers :"
+cout<<"Enter two numbers :";
 cin>>a>>b;
 s=a+b;
 cout<<"sum="<<s;
